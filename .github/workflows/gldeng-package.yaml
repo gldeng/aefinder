@@ -18,7 +18,7 @@ jobs:
             AeFinder.EntityEventHandler,
             AeFinder.HttpApi.Host,
             AeFinder.Silo,
-            AeFidner.DbMigrator
+            AeFinder.DbMigrator
           ]
     steps:
       - uses: actions/checkout@v4
@@ -46,7 +46,7 @@ jobs:
             AeFinder.EntityEventHandler,
             AeFinder.HttpApi.Host,
             AeFinder.Silo,
-            AeFidner.DbMigrator
+            AeFinder.DbMigrator
           ]
     permissions:
       contents: read
